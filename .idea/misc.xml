@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Remote Python 3.8.19 (sftp://root@192.168.121.131:22/export/servers/Anaconda3-2021.05/envs/pyspark/bin/python)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.8.19 (sftp://root@192.168.121.131:22/export/servers/Anaconda3-2021.05/envs/pyspark/bin/python)" project-jdk-type="Python SDK" />
+</project>
